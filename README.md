@@ -1,12 +1,6 @@
 ## Welcome to buiedev !!!  
 
-_**The Github README page about its maintainer, M. Adam Buie (that's me)!**_
-
-Currently, and probably foremoast, I am by know means a program, software designer, infrastructure architect, or any other extremely important person as I
-do not how to code all that well -- yet!  This profile collection is more about my journey learning to code, the things I am able to do with the skills that 
-I develop, and also place some of what I do professionally on exhibiit: Electronic Data Interchange X12 consulting and business and systems analysis.  I plan
-on exhibiting some codde that I create, and as I am mostly intersted in cloud severless, distributed architecture, I am hoping to learn more about that as
-well and hopefully have some work examples for you on that as well.
+Currently, and probably foremoast, I am by know means a professional programmer, software designer, infrastructure architect, or any other extremely important person as I do not how to code all that well -- yet!  This profile collection is more about my journey learning to code, the things I am able to do with the skills that I develop, and also place some of what I do professionally on exhibiit: Electronic Data Interchange X12 consulting and business and systems analysis.  I plan on exhibiting some codde that I create, and as I am mostly intersted in cloud severless, distributed architecture, I am hoping to learn more about that as well and hopefully have some work examples for you on that as well.
 
 #### A Short Professional Summary About Me  
 
@@ -33,7 +27,7 @@ _Neat Facts_: (with no real relavence other than it is fun to share!)
   other reason than for the joy of learning and something I would personally like to do, I hope to be able to apply these skills in my professional
   life as well!  
   
-**Goal 2**: Engage and Give Back to the Communities Like These  
+**GOAL 2**: Engage and Give Back to the Communities Like These  
   
   Participate and engage with different communities, from the Free and Open Source community, other professionals adding new skills to their toolbelt,
   soon-to-be amazing programmers and developers who, like myself, are just starting out on their development journeys.  I have always worked in a
@@ -41,7 +35,7 @@ _Neat Facts_: (with no real relavence other than it is fun to share!)
   finally enable myself to create the things that I ideate and come up with myself, but also become part of something larger than myself that I can
   hopefully one day give back to in ways that improve and life and work of others.
 
-**Goal 3**:  Create Something New and (if not awesome) Useful  
+**GOAL 3**:  Create Something New and (if not awesome) Useful  
   
   It would be kind of senseless to spend all of this time learning and trying to teach myself new things all in the name of just to learn it and then 
   do nothing with those new skills!  I want to be able to one day develop a process or create a program or even develop a framework that helps others
