@@ -16,7 +16,7 @@ _Neat Facts_: (with no real relavence other than it is fun to share!)
  2. Beginning in or around the 3rd or 4th grade, I was caught in a horrendous lightening stom with my maternal grandfather - I am terrified of storms to this day (nearly 20 years later).
  3. I may be passionate about technology, but one of my other extreme passions is history, chiefly that of The United Kingdom from 1066 on up until today (the whole history!)
   
-#### Current Personal Goals    
+#### Goals    
 
 **GOAL 1**: Learn Python in Order to Build Applications and Become an Awesome Programmer  
   
@@ -43,13 +43,12 @@ _Neat Facts_: (with no real relavence other than it is fun to share!)
   always to make sure that whatever it is that I do, that I leave it better than when I found it and in a way that the next person is able to make use
   of for their own purposes.  
     
- #### What This Repository and Profile Contains  
+ #### CONTENT
  
- Stay tuned: I am still working out how to best use the site to demonstrate to everyone my skillsets that I currently have and the ones that I am
- working on developing now!  As it comes into focus to myself and to fruition, I will make sure to update this file with all the details!  
+ Stay tuned: buiedev/buiedev is meant soley to document my journey through learning to code and execute best practices in version control.
  
  
-**NOTE**:  Currently not looking for additional clients or work at this time
+**NOTE**: This GitHub account was created with the sole intent to learn how to code and manage cde correctly using version control, and to work on code collaboratively with other developers or functional technological experts.
 
 
 _Last update: 05/20/2022_
